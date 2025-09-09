@@ -23,7 +23,7 @@ Two Owls Café is a fictional ordering site built for my CS 20 Web Programming c
 ---
 
 ### Under the Hood
-![MySQL menu table]<img width="1028" height="692" alt="MySQL database" src="https://github.com/user-attachments/assets/eb7c3adf-52b5-4483-81a8-245fe104210c" />
+MySQL menu table<img width="514" height="346" alt="MySQL database" src="https://github.com/user-attachments/assets/eb7c3adf-52b5-4483-81a8-245fe104210c" />
 
 
 This screenshot shows the `menu` table in MySQL, where I stored each café item’s name, description, price, and image filename for the order form.
