@@ -29,6 +29,3 @@ Customers browse menu items, place an order, and view a calculated summary with 
 
 - **Order Processing**  
   On submission, `process_order.php` lists each item ordered with quantity, price, and subtotal. It then displays tax, final total, pickup time, and customer information.
-
-- **Reusable Header**  
-  A separate `header.php` file (with café name, hours of operation, and admin link) is included across pages.
